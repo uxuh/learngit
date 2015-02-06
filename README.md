@@ -2,4 +2,4 @@
 learn git following http://www.liaoxuefeng.com/
 first edit
 Second edition
-third edition, branch is created & simple
+third edition, branch is created And simple.
